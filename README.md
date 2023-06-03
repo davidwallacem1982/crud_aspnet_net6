@@ -1,6 +1,6 @@
-#### ASP.Net Web API, .NET 6 e EF Core
+## ASP.Net Web API, .NET 6 e EF Core
 
-# ASP.Net Net6 Web API em C# é um framework poderoso e altamente produtivo para a criação de APIs da web. Com ele, você pode desenvolver uma API completa do zero, com todas as operações básicas de CRUD (Create, Read, Update e Delete).
+#### ASP.Net Net6 Web API em C# é um framework poderoso e altamente produtivo para a criação de APIs da web. Com ele, você pode desenvolver uma API completa do zero, com todas as operações básicas de CRUD (Create, Read, Update e Delete).
 
 Ao utilizar o ASP.Net Net6 Web API, você aproveitará os recursos avançados do C#, como tipagem estática e orientação a objetos, para criar uma API robusta e escalável. O ASP.Net Net6 é a versão mais recente do framework, trazendo melhorias significativas em desempenho, segurança e facilidade de uso.
 
