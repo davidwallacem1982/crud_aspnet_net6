@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAspNetNet6", "CRUDAspNetNet6\CRUDAspNetNet6.csproj", "{EDD6FFC8-F0DB-4BD1-92D7-4BAC1F4A9691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD6FFC8-F0DB-4BD1-92D7-4BAC1F4A9691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD6FFC8-F0DB-4BD1-92D7-4BAC1F4A9691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD6FFC8-F0DB-4BD1-92D7-4BAC1F4A9691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD6FFC8-F0DB-4BD1-92D7-4BAC1F4A9691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E981DC9-77D5-4EB3-AD84-5FA1BCE3BEBA}
+	EndGlobalSection
+EndGlobal
