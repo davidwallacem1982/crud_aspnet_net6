@@ -12,7 +12,7 @@ Com a combinação do ASP.Net Net6, C# e CRUD, você estará preparado para cria
 
 ## Gerando o Banco
 
-1. [SqlServe] Com o SqlServer instalado na sua estção no projeto entro no arquivo #appsettings.json, insira a sua ConnectionStrings para criar o banco na sua estação.
+1. [SqlServer] Com o SqlServer instalado na sua estção no projeto entro no arquivo #appsettings.json, insira a sua ConnectionStrings para criar o banco na sua estação.
 1. [Add-Migration] Em Package Manager Console insira o comando #Add-Migration NomedaMigacao -Context SistemaDBContext para criar a migration.
 2. [Add-Migration] Depois de gerar a nova migração agora você vai inserir o comando Update-Database -Context SistemaDBContext para fazer o Update no SGBD da sua estação.
 3. [Testando o sistema] Agora rode o programa e teste o sistema, ele dever abrir o swagger normalmente.
