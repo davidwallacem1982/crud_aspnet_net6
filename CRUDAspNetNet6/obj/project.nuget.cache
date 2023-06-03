@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oqv4M0vpnCoZJ/ro/2DBYwnvAG81H3tQXXAqVLOGdfP2LBcjqsPKtleBkymsxHKKfbw7+oF0UwoqtOWhvnf3Jw==",
+  "dgSpecHash": "+JUlbvCapiIfIpbhR8SjZnoYyFYfFeDpU63y4Nboq743CeUcKGzuDjTGhYlj2zmnxMq1sZWhu33V449zMBbzGg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CRUDAspNetNet6\\CRUDAspNetNet6\\CRUDAspNetNet6.csproj",
+  "projectFilePath": "C:\\Dev\\CRUDNet6\\CRUDAspNetNet6\\CRUDAspNetNet6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
